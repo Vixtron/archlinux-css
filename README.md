@@ -18,3 +18,5 @@ Edit the following to your own liking:
 --highlight-color: #rrggbb;
 }
 ```
+
+The previews can be found in my ![dotfiles](https://github.com/Vixtron/dotfiles/) repository.
