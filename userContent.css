@@ -17,7 +17,7 @@ NOTE: Edit color vars below for custom website colors!
 
 	#archnavbarlogo {
 		background: url('https://aur.archlinux.org/css/archnavbar/archlogo.png') !important;
-	}1
+	}
 
 	#archnavbar.anb-aur ul li#anb-aur a {
 		color: var(--highlight-color) !important;
