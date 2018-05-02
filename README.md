@@ -7,7 +7,7 @@ This is currently in work, covering most of the website's CSS.
 Restart your Firefox and you are ready to go!
 
 # Want custom colors?
-Edit the following in `~/.mozilla/firefox/.profile/chrome/userContent.css` to your own liking:
+Edit the following in `~/.mozilla/firefox/profile.default/chrome/userContent.css` to your own liking:
 
 ```css
 :root {
